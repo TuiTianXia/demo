@@ -71,11 +71,6 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/tuitianxia/demo',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -113,10 +108,6 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
